@@ -18,3 +18,14 @@ def breed=(new_breed)
 end 
 
 end 
+
+class Person
+  def name 
+    @name 
+  end 
+  def name = new_name 
+    @name = new_name
+  end 
+  
+  
+end 
